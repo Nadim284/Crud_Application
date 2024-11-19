@@ -17,24 +17,4 @@ Before you begin, ensure you have met the following requirements:
 - **MongoDB**: Set up MongoDB and ensure it is running locally or remotely.
 - **Postman** (optional): For testing API endpoints.
 
-## Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/TawhidShakil/Crud_Application.git
-cd Crud_Application
-### 2. Install Dependencies
-After cloning the repository, you need to install the required dependencies that the application uses.
-
-Run the following command in the root directory of your project:
-```bash
-npm install
-
-
-By adding this snippet to the "Getting Started" section, you will provide instructions for users to install all the dependencies before they can start using or developing your application.
-
-Make sure that you have a `package.json` file with the necessary dependencies listed. If you're missing it or want to ensure it's set up correctly, you can generate one by running:
-
-```bash
-npm init -y
 
